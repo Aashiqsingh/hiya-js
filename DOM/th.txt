@@ -1,0 +1,12 @@
+DOM -- > Document object model
+
+
+js ---> Dom manupulate 
+
+
+Identify :
+1. id -- uniqui
+2. name -- multiple
+3. class -- multiple
+4. tagname -- multiple
+5. querySelector 
